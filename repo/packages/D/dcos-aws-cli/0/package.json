@@ -1,0 +1,10 @@
+{
+  "packagingVersion": "3.0",
+  "name": "dcos-aws-cli",
+  "version": "1.0",
+  "maintainer": "joerg@mesosphere.io",
+  "minDcosReleaseVersion": "1.9",
+  "description": "DC/OS AWS CLI",
+  "tags": [ "aws", "subcommand" ],
+  "selected": false
+}
